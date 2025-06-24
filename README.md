@@ -43,3 +43,5 @@
   - 结果：返回的 modules 对象，value 是一个函数（调用时才会真正导入模块）。
 
   - 用途：适合组件很多、希望按需加载，优化首屏性能。
+
+![image](./markdownAssets/image1.png)
