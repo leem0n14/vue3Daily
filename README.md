@@ -44,7 +44,7 @@
 
   - 用途：适合组件很多、希望按需加载，优化首屏性能。
 
-![image](./markdownAssets/image1.png)
+![image-1](./README.assets/image1.png)
 
 ### 20250624：passwordInput
 
