@@ -45,3 +45,11 @@
   - 用途：适合组件很多、希望按需加载，优化首屏性能。
 
 ![image](./markdownAssets/image1.png)
+
+### 20250624：passwordInput
+
+1、完善了下组件的自动导入函数
+
+2、制作了两种控制密码显示隐藏的组件passwordInput
+
+![image-20250624225304592](./README.assets/image-20250624225304592.png)

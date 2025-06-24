@@ -21,7 +21,7 @@ function selectComponent(name: string) {
       </ul>
     </div>
     <div class="content">
-      <component :is="modules[`../components/${currentComponent}.vue`].default" />
+      <component :is="modules[currentComponent]?.default" />
     </div>
   </div>
 </template>
